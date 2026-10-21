@@ -678,3 +678,5 @@ func collect(staticConfiguration *static.Configuration) {
 		}
 	})
 }
+
+// lab: no-evidence PR 2026-10-21T19:04:43Z
