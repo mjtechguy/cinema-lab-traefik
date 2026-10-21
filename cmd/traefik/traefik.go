@@ -678,3 +678,5 @@ func collect(staticConfiguration *static.Configuration) {
 		}
 	})
 }
+
+// lab: PR experiment 2026-10-21T09:36:30Z
